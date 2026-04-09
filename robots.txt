@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lightbryan26.github.io/senior-living-specia-c0944/sitemap.xml
